@@ -89,12 +89,6 @@
           <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       </a>
       <a href="#">
-          <img alt="Bash" src="https://img.shields.io/badge/Bash-F05032?style=for-the-badge&logo=bash&logoColor=white"/>
-      </a>
-      <a href="#">
-          <img alt="Github" src="https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="#">
           <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       </a>
       <a href="#">
@@ -108,6 +102,14 @@
       </a>
   </p>
 </details>
+<details align="" open>
+  <summary> 
+    <b>Others</b>
+  </summary>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/arduino-4fccf3?style=for-the-badge&logo=arduino&logoColor=white">
+</details> 
 </div>
 
 <div align=center>
